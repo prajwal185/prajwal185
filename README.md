@@ -11,7 +11,7 @@
 - 🚀 **Currently:** Building production-ready AI/ML applications and data analytics engines
 - 🎓 **Learning:** AWS certifications, Data Analytics, Full-stack development, System design
 - 💡 **Interests:** AI agents, Real-time analytics, Healthcare tech, Cloud architecture
-- 🌍 **Location:** Devanahalli, Karnataka, India
+- 🌍 **Location:** bangalore, Karnataka, India
 - 📊 **Portfolio:** 18+ projects spanning AI, data analytics, and full-stack development
 
 ---
