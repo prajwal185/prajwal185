@@ -94,7 +94,7 @@
 
 ✅ **Pursuing:** IBM SkillsBuild & AWS certifications for cloud mastery
 
-✅ **Portfolio:** Expanding 18+ projects into industry-standard, deployment-ready applications
+✅ **Portfolio:** Expanding 7 projects into industry-standard, deployment-ready applications
 
 ✅ **Goal:** Securing a Data Analytics or Junior Developer role with cutting-edge tech stack
 
@@ -104,7 +104,7 @@
 
 | Achievement | Details |
 |---|---|
-| **18+ Projects** | Production-ready applications spanning AI, data analytics, full-stack |
+| **7 Projects** | Production-ready applications spanning AI, data analytics, full-stack |
 | **70+ Commits** | Consistent development momentum in the last year |
 | **Multi-Stack** | Proficient in Python, TypeScript, React, FastAPI, AWS |
 | **AI/ML** | Expertise in fairness-aware models, survival analysis, RAG systems |
